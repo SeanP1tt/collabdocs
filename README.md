@@ -16,8 +16,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/SeanP1tt/spdocs.git
-   cd spdocs
+   git clone https://github.com/SeanP1tt/collabdoc.git
+   cd collabdoc
    ```
 
 2. Install the dependencies:
